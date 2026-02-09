@@ -1,0 +1,25 @@
+1...git clone link
+2...checking means git config --global user.name "gopikarajendran36-arch"
+                   git config --global user.email "gopikarajendran36@gmail.com"
+3...we want to clone vs--git
+    git add test2.txt
+    git status
+    git commit -m "Test2.txt file added"
+    git push -u origin main
+4..again create new file..test3.txt
+    git add test3.txt
+    git commit -m "Created test3.txt"
+    git status
+    git push origin main
+5..we want to modify test3 means..enter text in vs code
+    git add test3.txt
+    git commit -m "Modified test3.txt"
+    git push origin main
+6...it we want to delete one file in VSCODE
+    First delete the file test3.txt
+    git add test3.txt
+    git commit -m "Deleted test3.txt"
+    git push origin main
+    now check it removes the git
+7..if we create new file in GIT
+    just enter git pull,it get in vs code
