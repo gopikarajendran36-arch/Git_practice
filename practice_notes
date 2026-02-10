@@ -1,3 +1,4 @@
+  Remember...Add--commit--push
 1...git clone link
 2...checking means git config --global user.name "gopikarajendran36-arch"
                    git config --global user.email "gopikarajendran36@gmail.com"
@@ -21,5 +22,7 @@
     git commit -m "Deleted test3.txt"
     git push origin main
     now check it removes the git
-7..if we create new file in GIT
-    just enter git pull,it get in vs code
+7..if we create new file in GIT,that clone in vs
+    just enter [git pull],it get in vs code
+8...If any changes in GIT
+    just enter [git pull],automatically changed in Vs code
